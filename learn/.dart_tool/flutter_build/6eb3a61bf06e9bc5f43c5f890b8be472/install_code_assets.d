@@ -1,0 +1,1 @@
+ /Users/frrssyff/Desktop/flutter-learn/learn/.dart_tool/flutter_build/6eb3a61bf06e9bc5f43c5f890b8be472/native_assets.json: 

@@ -1,0 +1,4 @@
+node_modules/
+
+# Data runtime (dibuat otomatis saat server jalan)
+data/
